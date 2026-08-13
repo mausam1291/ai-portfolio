@@ -1,0 +1,46 @@
+Mausam Kumari
+6206560189 mausamgupta0426@gmail.com https://www.linkedin.com/in/mausamgupta
+Technical Skills
+Programming Languages: Java, Python, JavaScript, SQL, HTML, CSS
+Frameworks & Technologies: Spring Boot, FastAPI, React.js, Node.js, Hibernate, Spring Security, JWT, REST APIs, MySQL,
+Postman
+Core Concepts: Data Structures & Algorithms (DSA), Operating Systems (OS)
+Core Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), Operating Systems, Database
+Management Systems, Problem Solving, Debugging
+Soft Skills: Communication, Presentation Skills, Technical Documentation, Team Collaboration, Analytical Thinking,
+Continuous Learning
+Education
+Technocrats Institute of Technology 	Bhopal, India
+Bachelor of Technology (B.Tech) in Computer Science(AIML) 	2021 – 2025
+R.C.S.S Collage 	Begusarai, India
+12th Standard 	2019-2020
+University Projects
+Expense Tracker Web Application
+Technologies: Java, Spring Boot, Spring Security, JWT, Hibernate, MySQL, Postman
+● Developed a full-stack Expense Tracker application using Java, Spring Boot, and MySQL following MVC architecture.
+● Designed and implemented 6+ RESTful APIs for user authentication and expense management.
+● Integrated JWT authentication, Spring Security, BCrypt encryption, and Hibernate to build a secure backend.
+● Tested and debugged APIs using Postman with request validation and exception handling.
+AI Hiring Copilot
+Technologies: FastAPI, Python, Google Gemini API, PyMuPDF
+● Developed an AI-powered Hiring Copilot using FastAPI and Google Gemini API to automate resume evaluation.
+● Built 5+ REST APIs for resume upload, PDF parsing, AI-powered candidate analysis, and structured evaluation.
+● Implemented PDF text extraction and prompt engineering to identify candidate skills, strengths, experience, and
+improvement areas.
+● Designed a modular backend with separate API, service, utility, and prompt layers to improve maintainability.
+SHL Assessment Recommendation System
+Technologies: Python, FastAPI, BeautifulSoup, Requests
+● Developed an intelligent recommendation system to match job requirements with relevant SHL assessments.
+● Built a web scraping pipeline to extract and organize 180+ assessment-related webpages into structured JSON
+datasets.
+● Developed REST APIs to deliver assessment recommendations based on candidate skills and job descriptions.
+● Implemented skill-based recommendation logic to improve assessment selection accuracy.
+Achievements
+● Solved 625+ coding problems across GeeksforGeeks and LeetCode, strengthening Data Structures, Algorithms,
+Debugging, and Problem Solving.
+● Built 3 end-to-end backend/full-stack projects using Java, Spring Boot, FastAPI, MySQL, and Python.
+● Developed 10+ REST APIs across academic projects, gaining practical experience in backend development,
+authentication, validation, and API testing.
+● Continuously learned modern technologies through certifications, hands-on projects, and coding practice.
+
+-- 1 of 1 --
